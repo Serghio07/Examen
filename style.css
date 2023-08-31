@@ -1,0 +1,17 @@
+body{
+    background-color: red;
+}
+.button{
+    background-color: aqua;
+    position: absolute;
+    left: 150px;
+    width: 80px;
+
+}
+.button2{
+    background-color: rgb(251, 255, 0);
+    height: 60px;
+    left: 150px;
+    width: 80px;
+
+}
